@@ -1,13 +1,145 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>50 Essential Physics Formulas | Class 10</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            color: #007bff;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px 0;
+            line-height: 1.6;
+        }
+        .formula {
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
 
-pkg/
-src/
+<header>
+    <h1>50 Essential Physics Formulas from NCERT Class 10</h1>
+</header>
+
+<section>
+    <h2>Motion</h2>
+    <ul>
+        <li><span class="formula">Speed:</span> Speed = Distance / Time</li>
+        <li><span class="formula">Velocity:</span> Velocity = Displacement / Time</li>
+        <li><span class="formula">Acceleration:</span> Acceleration = (Final Velocity - Initial Velocity) / Time</li>
+        <li><span class="formula">First Equation of Motion:</span> v = u + at</li>
+        <li><span class="formula">Second Equation of Motion:</span> s = ut + (1/2)at²</li>
+        <li><span class="formula">Third Equation of Motion:</span> v² = u² + 2as</li>
+    </ul>
+
+    <h2>Force and Laws of Motion</h2>
+    <ul>
+        <li><span class="formula">Newton's First Law of Motion:</span> An object at rest stays at rest, and an object in motion stays in motion unless acted upon by an unbalanced force.</li>
+        <li><span class="formula">Newton's Second Law of Motion:</span> F = ma</li>
+        <li><span class="formula">Newton's Third Law of Motion:</span> For every action, there is an equal and opposite reaction.</li>
+        <li><span class="formula">Weight:</span> Weight = Mass x Gravity</li>
+        <li><span class="formula">Momentum:</span> Momentum = Mass x Velocity</li>
+        <li><span class="formula">Conservation of Momentum:</span> In the absence of an external force, the total momentum of a system remains constant.</li>
+    </ul>
+
+    <h2>Gravitation</h2>
+    <ul>
+        <li><span class="formula">Universal Law of Gravitation:</span> F = Gm₁m₂ / r²</li>
+        <li><span class="formula">Acceleration due to Gravity:</span> g = GM / r²</li>
+        <li><span class="formula">Gravitational Potential Energy:</span> U = -GMm / r</li>
+        <li><span class="formula">Escape Velocity:</span> vₑ = √(2GM / R)</li>
+    </ul>
+
+    <h2>Work, Energy, and Power</h2>
+    <ul>
+        <li><span class="formula">Work:</span> Work = Force x Displacement</li>
+        <li><span class="formula">Kinetic Energy:</span> KE = (1/2)mv²</li>
+        <li><span class="formula">Potential Energy:</span> PE = mgh</li>
+        <li><span class="formula">Law of Conservation of Energy:</span> Energy cannot be created or destroyed, only transformed.</li>
+        <li><span class="formula">Power:</span> Power = Work / Time</li>
+        <li><span class="formula">Mechanical Energy:</span> Mechanical Energy = Kinetic Energy + Potential Energy</li>
+    </ul>
+
+    <h2>Sound</h2>
+    <ul>
+        <li><span class="formula">Speed of Sound:</span> v = √(γRT / M)</li>
+        <li><span class="formula">Frequency:</span> Frequency = 1 / Time Period</li>
+        <li><span class="formula">Wavelength:</span> Wavelength = Speed of Sound / Frequency</li>
+        <li><span class="formula">Loudness:</span> Loudness is related to the amplitude of the sound wave.</li>
+        <li><span class="formula">Pitch:</span> Pitch is related to the frequency of the sound wave.</li>
+    </ul>
+
+    <h2>Light</h2>
+    <ul>
+        <li><span class="formula">Laws of Reflection:</span></li>
+        <li>The angle of incidence is equal to the angle of reflection.</li>
+        <li>The incident ray, the reflected ray, and the normal lie in the same plane.</li>
+        <li><span class="formula">Lens Formula:</span> 1/v - 1/u = 1/f</li>
+        <li><span class="formula">Magnification:</span> m = -v / u</li>
+    </ul>
+
+    <h2>Electricity</h2>
+    <ul>
+        <li><span class="formula">Ohm's Law:</span> V = IR</li>
+        <li><span class="formula">Electric Power:</span> P = VI = I²R = V²/R</li>
+        <li><span class="formula">Series Combination of Resistors:</span> 1/R_total = 1/R₁ + 1/R₂ + ...</li>
+        <li><span class="formula">Parallel Combination of Resistors:</span> R_total = R₁ + R₂ + ...</li>
+        <li><span class="formula">Electric Current:</span> I = Q / t</li>
+        <li><span class="formula">Magnetic Field due to a Current-Carrying Conductor:</span> B = μ₀I / 2πr</li>
+    </ul>
+
+    <h2>Magnetism</h2>
+    <ul>
+        <li><span class="formula">Magnetic Force on a Moving Charge:</span> F = qvBsinθ</li>
+        <li><span class="formula">Magnetic Field due to a Solenoid:</span> B = μ₀nI</li>
+        <li><span class="formula">Electromagnetic Induction:</span> Inducing an electric current by changing the magnetic field.</li>
+        <li><span class="formula">Faraday's Law of Electromagnetic Induction:</span> ε = -N(ΔΦ / Δt)</li>
+        <li><span class="formula">Lenz's Law:</span> The induced current opposes the change causing it.</li>
+    </ul>
+
+    <h2>Modern Physics</h2>
+    <ul>
+        <li><span class="formula">Radioactivity:</span> The spontaneous emission of radiation from unstable atoms.</li>
+        <li><span class="formula">Types of Radioactivity:</span> Alpha decay, beta decay, gamma decay</li>
+        <li><span class="formula">Nuclear Energy:</span> Energy released during nuclear reactions.</li>
+        <li><span class="formula">Nuclear Fission:</span> The splitting of heavy nuclei into lighter nuclei, releasing energy.</li>
+        <li><span class="formula">Nuclear Fusion:</span> The combining of lighter nuclei to form heavier nuclei, releasing energy.</li>
+    </ul>
+</section>
+
+</body>
+</html>
+
